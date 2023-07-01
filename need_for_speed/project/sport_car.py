@@ -2,4 +2,4 @@ from project.car import Car
 
 
 class SportCar(Car):
-    pass
+    DEFAULT_FUEL_CONSUMPTION = 10

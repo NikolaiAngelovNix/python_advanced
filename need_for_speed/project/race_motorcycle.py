@@ -2,4 +2,4 @@ from project.motorcycle import Motorcycle
 
 
 class RaceMotorcycle(Motorcycle):
-    pass
+    DEFAULT_FUEL_CONSUMPTION = 8

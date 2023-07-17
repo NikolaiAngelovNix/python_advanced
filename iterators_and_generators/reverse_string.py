@@ -4,4 +4,3 @@ def reverse_text(text):
     while current_index >= end_index:
         yield text[current_index]
         current_index -= 1
-        
